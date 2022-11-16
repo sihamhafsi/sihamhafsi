@@ -1,6 +1,6 @@
 ### Hi there 👋
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I am a student in computer science and data engineering at ENSA de Khouribga and a student at 1337 de Khouribga.
+I am a student in computer science and data engineering at ENSA in Khouribga and a student at 1337 in Khouribga.
 
 - 📫 Contact me https://www.linkedin.com/in/siham-hafsi-b16a0a205/
 
