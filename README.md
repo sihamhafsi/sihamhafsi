@@ -9,8 +9,8 @@ I am a student in computer science and data engineering at ENSA Khouribga and a 
 
 ### My Github stats
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![shafsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamhafsi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamhafsi&show_icons=true&theme=radical)](https://github.com/sihamhafsi/github-readme-stats)
+![sihamhafsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamhafsi&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamhafsi&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # my skills :
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
